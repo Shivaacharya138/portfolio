@@ -1,4 +1,3 @@
-# github-portfolio
 # Hi! I'm Shiva Acharya 👋🏻
 🎯 Passionate about tech, with a knack for turning data into impactful insights and creating innovative solutions. Data-driven professional transitioning from Lighting Designer to Data Science Enthusiast, with a solid foundation in engineering design and workflow optimization. Experienced in transforming complex datasets into actionable business insights using Python, SQL, Machine Learning, and Power BI. Proven ability in technical design, team leadership, and effective client communication. Skilled at developing dashboards, KPI reporting, and predictive models (classification, regression, clustering) to guide data-driven decision making. Adept at bridging engineering knowledge and advanced analytics to solve business challenges and drive process improvements.
 
