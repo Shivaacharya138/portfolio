@@ -1,5 +1,5 @@
 title: MAROJU SHIVA ACHARYA
-#logo: /assets/img/shiva.png
-description: text below image
-show_downloads: true
+logo: /assets/shiva.png
+description: Data Enthusiast
+show_downloads: False
 theme: jekyll-theme-minimal
